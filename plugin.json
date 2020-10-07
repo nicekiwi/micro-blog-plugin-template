@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "title": "Plugin name",
+    "description": "Plugin descriptio.n",
+    "includes": [],
+    "fields": [
+        {
+            "field": "params.example",
+            "label": "Example field",
+            "placeholder": "Example value"
+        }
+    ]
+}
